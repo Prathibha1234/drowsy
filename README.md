@@ -6,3 +6,5 @@ git checkout id
 git branch dev
 git checkout dev
 git merge dev
+modified branch 
+devo is a metodology
